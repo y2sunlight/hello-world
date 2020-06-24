@@ -1,10 +1,11 @@
-# hello-world
-
-このプロジェクトは、私が最初にGitHubを使った時に作成したチュートリアルです。
+hello-world
+<div style="text-align: right;">2020-06-24</div>
+---
+#GitHub Eclipseによるリポジトリの基本操作
 
 ## 概要
 
-このチュートリアルは、リポジトリの基本的な操作について [GitHubガイド](https://guides.github.com/)に掲載されている[HelloWorld](https://guides.github.com/activities/hello-world)に従って説明します。チュートリアルを完了するには、GitHubのアカウントと以下のクライアント環境が必要です。GitクライアントにはEclipseを使用します。
+このチュートリアルは、リポジトリの基本的な操作について [GitHubガイド](https://guides.github.com/)に掲載されている[HelloWorld](https://guides.github.com/activities/hello-world)に従って説明を進めます。チュートリアルを完了するには、GitHubのアカウントと以下のクライアント環境が必要です。GitクライアントにはEclipseを使用します。
 
 クライアント環境
 
@@ -37,4 +38,4 @@
 
 こちらをご覧ください。
 
-[GitHub リポジトリの基本操作](http://www.y2sunlight.com/ground/doku.php?id=github:basic) --- y2sunlight.com
+[GitHub Eclipseリポジトリの基本操作](http://www.y2sunlight.com/ground/doku.php?id=github:basic) --- y2sunlight.com
