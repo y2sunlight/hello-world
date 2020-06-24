@@ -1,41 +1,40 @@
-hello-world
-<div style="text-align: right;">2020-06-24</div>
----
-#GitHub Eclipse‚É‚æ‚éƒŠƒ|ƒWƒgƒŠ‚ÌŠî–{‘€ì
+hello-world 2020-06-24
 
-## ŠT—v
+# GitHub Eclipseã«ã‚ˆã‚‹ãƒªãƒã‚¸ãƒˆãƒªã®åŸºæœ¬æ“ä½œ
 
-‚±‚Ìƒ`ƒ…[ƒgƒŠƒAƒ‹‚ÍAƒŠƒ|ƒWƒgƒŠ‚ÌŠî–{“I‚È‘€ì‚É‚Â‚¢‚Ä [GitHubƒKƒCƒh](https://guides.github.com/)‚ÉŒfÚ‚³‚ê‚Ä‚¢‚é[HelloWorld](https://guides.github.com/activities/hello-world)‚É]‚Á‚Äà–¾‚ği‚ß‚Ü‚·Bƒ`ƒ…[ƒgƒŠƒAƒ‹‚ğŠ®—¹‚·‚é‚É‚ÍAGitHub‚ÌƒAƒJƒEƒ“ƒg‚ÆˆÈ‰º‚ÌƒNƒ‰ƒCƒAƒ“ƒgŠÂ‹«‚ª•K—v‚Å‚·BGitƒNƒ‰ƒCƒAƒ“ƒg‚É‚ÍEclipse‚ğg—p‚µ‚Ü‚·B
+## æ¦‚è¦
 
-ƒNƒ‰ƒCƒAƒ“ƒgŠÂ‹«
+ã“ã®ãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«ã¯ã€ãƒªãƒã‚¸ãƒˆãƒªã®åŸºæœ¬çš„ãªæ“ä½œã«ã¤ã„ã¦ [GitHubã‚¬ã‚¤ãƒ‰](https://guides.github.com/)ã«æ²è¼‰ã•ã‚Œã¦ã„ã‚‹[HelloWorld](https://guides.github.com/activities/hello-world)ã«å¾“ã£ã¦èª¬æ˜ã‚’é€²ã‚ã¾ã™ã€‚ãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«ã‚’å®Œäº†ã™ã‚‹ã«ã¯ã€GitHubã®ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã¨ä»¥ä¸‹ã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆç’°å¢ƒãŒå¿…è¦ã§ã™ã€‚Gitã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆã«ã¯Eclipseã‚’ä½¿ç”¨ã—ã¾ã™ã€‚
+
+ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆç’°å¢ƒ
 
 - Windows10 Pro
 - Eclipse 2019-12 Version 4.14
 
-ƒŠƒ“ƒN
-- [https://github.com/](https://github.com/) --- GitHub‚Ì–{‰Æ
-- [https://guides.github.com/](https://guides.github.com/) --- GitHubƒKƒCƒh
-- [ƒŠƒ|ƒWƒgƒŠ‚Ìì¬AƒNƒ[ƒ“AƒA[ƒJƒCƒu](https://help.github.com/ja/github/creating-cloning-and-archiving-repositories) --- GitHubƒwƒ‹ƒv‚æ‚è
-- [ƒŠƒ|ƒWƒgƒŠ‚ğŠÇ—‚·‚é](https://help.github.com/ja/github/administering-a-repository) --- GitHubƒwƒ‹ƒv‚æ‚è
-- [Hello World](https://guides.github.com/activities/hello-world/) --- GitHubƒKƒCƒh‚æ‚è
+ãƒªãƒ³ã‚¯
+- [https://github.com/](https://github.com/) --- GitHubã®æœ¬å®¶
+- [https://guides.github.com/](https://guides.github.com/) --- GitHubã‚¬ã‚¤ãƒ‰
+- [ãƒªãƒã‚¸ãƒˆãƒªã®ä½œæˆã€ã‚¯ãƒ­ãƒ¼ãƒ³ã€ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–](https://help.github.com/ja/github/creating-cloning-and-archiving-repositories) --- GitHubãƒ˜ãƒ«ãƒ—ã‚ˆã‚Š
+- [ãƒªãƒã‚¸ãƒˆãƒªã‚’ç®¡ç†ã™ã‚‹](https://help.github.com/ja/github/administering-a-repository) --- GitHubãƒ˜ãƒ«ãƒ—ã‚ˆã‚Š
+- [Hello World](https://guides.github.com/activities/hello-world/) --- GitHubã‚¬ã‚¤ãƒ‰ã‚ˆã‚Š
 
-## GitHubƒtƒ[
+## GitHubãƒ•ãƒ­ãƒ¼
 
-ˆÈ‰º‚Å‚ÍA[GitHubƒKƒCƒh](https://guides.github.com/)‚Ì[HelloWorld](https://guides.github.com/activities/hello-world)‚É]‚Á‚Äà–¾‚ği‚ß‚Ü‚·BHelloWorld‚ÍAREADME.md‚ğ•ÒW‚·‚é‚¾‚¯‚ÌŠÈ’P‚È—á‘è‚Å‚·‚ªAGitHub‚ÌŠî–{“I‚Èƒ[ƒNƒtƒ[‚ğ—‰ğ‚·‚éã‚Å‚Í\•ª‚È‚à‚Ì‚Å‚·B
+ä»¥ä¸‹ã§ã¯ã€[GitHubã‚¬ã‚¤ãƒ‰](https://guides.github.com/)ã®[HelloWorld](https://guides.github.com/activities/hello-world)ã«å¾“ã£ã¦èª¬æ˜ã‚’é€²ã‚ã¾ã™ã€‚HelloWorldã¯ã€README.mdã‚’ç·¨é›†ã™ã‚‹ã ã‘ã®ç°¡å˜ãªä¾‹é¡Œã§ã™ãŒã€GitHubã®åŸºæœ¬çš„ãªãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ã‚’ç†è§£ã™ã‚‹ä¸Šã§ã¯ååˆ†ãªã‚‚ã®ã§ã™ã€‚
 
-‚Ü‚¸Å‰‚ÉAV‚µ‚¢ƒŠƒ|ƒWƒg( hello-world )ì‚è‚Ü‚·BGitHub‚Å‚ÍAƒŠƒ|ƒWƒgƒŠì¬’¼Œã‚ÍAƒfƒtƒHƒ‹ƒg‚Åmasterƒuƒ‰ƒ“ƒ`‚ªì¬‚³‚ê‚Ü‚·B‚»‚µ‚ÄAREADME.md•ÒW—p‚Ìƒuƒ‰ƒ“ƒ`( readme-edits )‚ğ’Ç‰Á‚µ‚Ü‚·BREADME.md ‚Ì•ÒWì‹Æ‚Í‚±‚Ìƒuƒ‰ƒ“ƒ`‚Ås‚¢‚Ü‚·Bì‹ÆI—¹Œã‚ÉAƒvƒ‹ƒŠƒNƒGƒXƒg‚ğŠJ‚«ƒR[ƒh‚Ì•ÏX‚ğƒŒƒrƒ…ƒ[(‚±‚±‚Å‚ÍƒŠƒ|ƒWƒgƒŠ‚ÌƒI[ƒi[)‚É’Ê’m‚µ‚Ü‚·BƒŒƒrƒ…[‚ªI‚í‚é‚ÆAreadme-edits ƒuƒ‰ƒ“ƒ`‚ğmasterƒuƒ‰ƒ“ƒ`‚Éƒ}[ƒW‚µ‚Ü‚·B
+ã¾ãšæœ€åˆã«ã€æ–°ã—ã„ãƒªãƒã‚¸ãƒˆ( hello-world )ä½œã‚Šã¾ã™ã€‚GitHubã§ã¯ã€ãƒªãƒã‚¸ãƒˆãƒªä½œæˆç›´å¾Œã¯ã€ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã§masterãƒ–ãƒ©ãƒ³ãƒãŒä½œæˆã•ã‚Œã¾ã™ã€‚ãã—ã¦ã€README.mdç·¨é›†ç”¨ã®ãƒ–ãƒ©ãƒ³ãƒ( readme-edits )ã‚’è¿½åŠ ã—ã¾ã™ã€‚README.md ã®ç·¨é›†ä½œæ¥­ã¯ã“ã®ãƒ–ãƒ©ãƒ³ãƒã§è¡Œã„ã¾ã™ã€‚ä½œæ¥­çµ‚äº†å¾Œã«ã€ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’é–‹ãã‚³ãƒ¼ãƒ‰ã®å¤‰æ›´ã‚’ãƒ¬ãƒ“ãƒ¥ãƒ¯ãƒ¼(ã“ã“ã§ã¯ãƒªãƒã‚¸ãƒˆãƒªã®ã‚ªãƒ¼ãƒŠãƒ¼)ã«é€šçŸ¥ã—ã¾ã™ã€‚ãƒ¬ãƒ“ãƒ¥ãƒ¼ãŒçµ‚ã‚ã‚‹ã¨ã€readme-edits ãƒ–ãƒ©ãƒ³ãƒã‚’masterãƒ–ãƒ©ãƒ³ãƒã«ãƒãƒ¼ã‚¸ã—ã¾ã™ã€‚
 
-‚±‚Ì‚æ‚¤‚ÉAGitHub‚Ì‹@”\’PˆÊ‚Ìì‹Æ‚ÍAƒuƒ‰ƒ“ƒ`ì¬AƒR[ƒh•ÒWAƒvƒ‹ƒŠƒNƒGƒXƒgAƒR[ƒhƒŒƒrƒ…[ ‚»‚µ‚Ä ƒ}[ƒW‚Ì‡‚Éis‚µ‚Ä‚¢‚«‚Ü‚·B‚±‚Ì—¬‚ê‚ÍA[GitHub Flow](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/github-flow)‚ÆŒÄ‚Î‚êAGitHub‚Å‚Ìƒ[ƒNƒtƒ[ƒ‚ƒfƒ‹‚É‚È‚Á‚Ä‚¢‚Ü‚·B
+ã“ã®ã‚ˆã†ã«ã€GitHubã®æ©Ÿèƒ½å˜ä½ã®ä½œæ¥­ã¯ã€ãƒ–ãƒ©ãƒ³ãƒä½œæˆã€ã‚³ãƒ¼ãƒ‰ç·¨é›†ã€ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã€ã‚³ãƒ¼ãƒ‰ãƒ¬ãƒ“ãƒ¥ãƒ¼ ãã—ã¦ ãƒãƒ¼ã‚¸ã®é †ã«é€²è¡Œã—ã¦ã„ãã¾ã™ã€‚ã“ã®æµã‚Œã¯ã€[GitHub Flow](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/github-flow)ã¨å‘¼ã°ã‚Œã€GitHubã§ã®ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ãƒ¢ãƒ‡ãƒ«ã«ãªã£ã¦ã„ã¾ã™ã€‚
 
-QlƒŠƒ“ƒN
+å‚è€ƒãƒªãƒ³ã‚¯
 
-- [GitHubƒtƒ[](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/github-flow) --- GitHubƒwƒ‹ƒv‚æ‚è
-- [GitHubƒtƒ[‚ğ—‰ğ‚·‚é](https://guides.github.com/introduction/flow/) --- GitHubƒKƒCƒh‚æ‚è
+- [GitHubãƒ•ãƒ­ãƒ¼](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/github-flow) --- GitHubãƒ˜ãƒ«ãƒ—ã‚ˆã‚Š
+- [GitHubãƒ•ãƒ­ãƒ¼ã‚’ç†è§£ã™ã‚‹](https://guides.github.com/introduction/flow/) --- GitHubã‚¬ã‚¤ãƒ‰ã‚ˆã‚Š
 - [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html) --- Scott Chacon on the Interwebs
-- [GitHub Flow](https://gist.github.com/Gab-km/3705015) --- Scott Chacon on the Interwebs(–M–ó)<br>Scott Chacon(ƒXƒRƒbƒgEƒ`ƒƒƒRƒ“)‚ÍGit‚ÌƒGƒoƒ“ƒWƒFƒŠƒXƒg‚ÅGitHub‚ÌƒXƒ^[ƒg‚ÉŒg‚í‚Á‚½l•¨
+- [GitHub Flow](https://gist.github.com/Gab-km/3705015) --- Scott Chacon on the Interwebs(é‚¦è¨³)<br>Scott Chacon(ã‚¹ã‚³ãƒƒãƒˆãƒ»ãƒãƒ£ã‚³ãƒ³æ°)ã¯Gitã®ã‚¨ãƒãƒ³ã‚¸ã‚§ãƒªã‚¹ãƒˆã§GitHubã®ã‚¹ã‚¿ãƒ¼ãƒˆã«æºã‚ã£ãŸäººç‰©
 
-## ‘±‚«‚Í
+## ç¶šãã¯
 
-‚±‚¿‚ç‚ğ‚²——‚­‚¾‚³‚¢B
+ã“ã¡ã‚‰ã‚’ã”è¦§ãã ã•ã„ã€‚
 
-[GitHub EclipseƒŠƒ|ƒWƒgƒŠ‚ÌŠî–{‘€ì](http://www.y2sunlight.com/ground/doku.php?id=github:basic) --- y2sunlight.com
+[GitHub Eclipseãƒªãƒã‚¸ãƒˆãƒªã®åŸºæœ¬æ“ä½œ](http://www.y2sunlight.com/ground/doku.php?id=github:basic) --- y2sunlight.com
